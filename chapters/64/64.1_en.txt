@@ -108,7 +108,7 @@ to be the only one
 put through that...
 [#3] Well...
 it was a little awkward,
-but I managed.
+but it was no problem.
 [#4] ...Hm?
 [#5] Wait...
 Did you already...
@@ -118,6 +118,7 @@ Did you already...
 
 [#1] I wanna see them!!!
 [#2] I wanna see!
+I wanna see!
 I wanna see!
 I wanna see!
 I wanna see!
@@ -145,8 +146,7 @@ wait here a moment...
 [#2] Huh!?
 [box side] The Tatami Galaxy
 [box front] Japanese
-Language
-Textbooks
+Dictionary
 [Sfx 2] (rustle)
 [#6] Huh!?
 [#7] Woooow...
